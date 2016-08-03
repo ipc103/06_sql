@@ -1,4 +1,8 @@
-+ Select all of the columns from a table called 'artists'
-+ Select the id of the artist with the name 'Black Sabbath'
-+ Create a table called 'fans' with an autoincrementing primary key called id and a text column called 'name'
-+ Alter the fans table to have a column called 'artist_id' with integer
+1. How would you return all of the rows in the artists table?
+2. How would you select an artist with the name "Black Sabbath"?
+3. How would you create a table named 'fans' with
+  * an id field that autoincrements and is a primary key
+  * a name field of type text
+4. How would you alter the fans table to have a artist_id column type integer?
+5. How would you add yourself as a fan of the Black Eyed Peas? 169
+6. How would you change your name in the fans table?
